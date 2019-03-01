@@ -1,13 +1,13 @@
 /* CSS */
 * {
 
-  font-family: 'Major Mono Display', monospace;	
 
 }
 
 body {
     text-align: center; 
     background-color: #6d6d6d; 
+    font-family: 'Major Mono Display', monospace;	
 
 
 
