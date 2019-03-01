@@ -1,3 +1,8 @@
+head {
+  background-color: #6d6d6d;
+  font-family: 'Major Mono Display', monospace;	
+}
+
 body {
   background-color: #6d6d6d;
   position: absolute;
