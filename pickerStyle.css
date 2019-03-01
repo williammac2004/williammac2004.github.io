@@ -1,13 +1,7 @@
 /* CSS */
 * {
   background-color: #6d6d6d;
-  position: absolute;
-  width: 300px;
-  height: 200px;
-  z-index: 15;
-  top: 50%;
-  left: 50%;
-  margin: -70px 0 0 -250px;
+
   font-family: 'Major Mono Display', monospace;	
 
 }
